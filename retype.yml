@@ -2,10 +2,10 @@ input: .
 output: .retype
 url: docs.losmania-rp.de
 branding:
-  title: LosManiaRP Docs
+  title: LosManiaRP
   label: Docs
 links:
-- text: Getting Started
-  link: https://retype.com/guides/getting-started/
+- text: Discord
+  link: discord.losmania-rp.de
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
