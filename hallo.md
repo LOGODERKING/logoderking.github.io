@@ -1,5 +1,12 @@
 ## Welcome this is a test
 
+---
+label: Sample
+layout: page
+order: 100
+---
+# Sample page
+
 !!!primary Primary
 This is a `primary` alert.
 !!!
